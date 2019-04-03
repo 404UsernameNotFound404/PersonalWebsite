@@ -1,0 +1,585 @@
+/*CSS for Nav Bar page below ----------------------------------------------------------------------*/
+.forNavBar {
+  background-color: lightgrey;
+  width: 95%;
+  margin: auto;
+  text-align: center;
+  padding: 1.5%;
+  margin-bottom: 1%;
+}
+.forMyName {
+  font-size: 100%;
+}
+.forMyNameMobile {
+  font-size: 50%;
+}
+.forMyNameContainer {
+  padding-bottom: 1%;
+  font-size: 300%;
+}
+
+.forNavBarButtonsContainer {
+  display: flex;
+  justify-content: center;
+  width: 70%;
+  margin: auto;
+}
+.forNavBarButtons {
+  display: flex;
+  flex: 1;
+}
+/*CSS for Footer page below ----------------------------------------------------------------------*/
+.forFooter {
+  background-color: lightgrey;
+  width: 95%;
+  margin: auto;
+  text-align: center;
+  padding: 1.5%;
+  font-style: italic;
+  margin-top: 1%;
+}
+.forPopup {
+  display: flex;
+  justify-content: center;
+}
+.forPopupText {
+  margin-right: 4%;
+}
+/*CSS for About Me page below ----------------------------------------------------------------------*/
+.forAboutMeTextContainer {
+  width: 95%;
+  margin: auto;
+  padding: 2%;
+  text-align: center;
+  background-color: lightblue;
+}
+.forAboutMeText {
+  width: 70%;
+  margin: auto;
+  display: flex;
+  justify-content: left;
+  margin-bottom: 2%;
+}
+.forAboutMeTextMobile {
+  width: 95%;
+  margin: auto;
+  margin-bottom: 2%;
+}
+.forAboutMeText img {
+  border-radius: 50%;
+  border-color: black;
+  border-style: solid;
+  border-width: thick;
+}
+.forAboutMeTextMobile img {
+  border-radius: 50%;
+  border-color: black;
+  border-style: solid;
+  border-width: thick;
+  width: 60%;
+  height: 60%;
+}
+.forAboutMeTextActuallyText {
+  margin: 3%;
+  text-align: left;
+}
+.threeAAAContainer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin: auto;
+}
+.threeAAAPara {
+  text-align: left;
+}
+.threeAAATitle {
+  text-align: left;
+  /* text-decoration: underline; */
+  margin-bottom: 0.5%;
+}
+.threeAAATextContainer {
+  margin-top: 2%;
+  padding: 2%;
+  border-color: grey;
+  border-style: solid;
+  background-color: lightcyan;
+}
+
+/*CSS for coding progects page below ----------------------------------------------------------------------*/
+.codingProgectsFullPage {
+  width: 95%;
+  margin: auto;
+  padding: 2%;
+  text-align: center;
+  background-color: lightblue;
+}
+.codingProgectsFullProgectConatiner1 {
+  display: flex;
+  justify-content: center;
+  width: 70%;
+  padding-bottom: 7.7%;
+  margin: auto;
+  background-image: url("ProgrammerHumor.png");
+  background-repeat: no-repeat;
+  border-color: white;
+  border-width: thick;
+  border-style: solid;
+  border-radius: 20px;
+  background-size: 100%;
+  align-content: center;
+  margin-bottom: 2%;
+}
+.codingProgectsFullProgectConatiner1TextContainer {
+  background-color: rgb(0, 0, 0, 0.85);
+  border-color: rgb(255, 255, 255, 0.5);
+  border-style: solid;
+  border-radius: 20px;
+  margin-top: 15%;
+  padding: 1%;
+  width: 70%;
+}
+.codingProgectsFullProgectConatiner1Text {
+  text-align: center;
+  opacity: 1;
+}
+.codingProgectsFullProgectConatiner2 {
+  display: flex;
+  justify-content: center;
+  width: 70%;
+  padding-bottom: 4%;
+  margin: auto;
+  background-image: url("JAGame.png");
+  background-repeat: no-repeat;
+  border-color: lightgrey;
+  border-width: thick;
+  border-style: solid;
+  border-radius: 20px;
+  background-size: 100%;
+  align-content: center;
+  margin-bottom: 2%;
+}
+.codingProgectsFullProgectConatiner2Mobile {
+  display: flex;
+  justify-content: center;
+  width: 98%;
+  padding-bottom: 4%;
+  margin: auto;
+  background-image: url("JAGame.png");
+  background-repeat: repeat;
+  border-color: lightgrey;
+  border-width: thick;
+  border-style: solid;
+  border-radius: 20px;
+  background-size: 100%;
+  align-content: center;
+  margin-bottom: 2%;
+}
+.codingProgectsFullProgectConatiner3 {
+  display: flex;
+  justify-content: center;
+  width: 70%;
+  padding-bottom: 9.9%;
+  margin: auto;
+  background-image: url("ReactApp.png");
+  background-repeat: no-repeat;
+  border-color: lightgrey;
+  border-width: thick;
+  border-style: solid;
+  border-radius: 20px;
+  background-size: 100%;
+  align-content: center;
+  margin-bottom: 2%;
+}
+
+.codingProgectsFullProgectConatiner3Mobile {
+  display: flex;
+  justify-content: center;
+  width: 95%;
+  padding-bottom: 9.9%;
+  margin: auto;
+  background-image: url("ReactApp.png");
+  background-repeat: repeat;
+  border-color: lightgrey;
+  border-width: thick;
+  border-style: solid;
+  border-radius: 20px;
+  background-size: 100%;
+  align-content: center;
+  margin-bottom: 2%;
+}
+
+.codingProgectsFullProgectConatiner4 {
+  display: flex;
+  justify-content: center;
+  width: 70%;
+  padding-bottom: 5.2%;
+  margin: auto;
+  background-image: url("404UsernameNotFound404.png");
+  background-repeat: no-repeat;
+  border-color: lightgrey;
+  border-width: thick;
+  border-style: solid;
+  border-radius: 20px;
+  background-size: 100%;
+  align-content: center;
+  margin-bottom: 2%;
+}
+
+.codingProgectsFullProgectConatiner4Mobile {
+  display: flex;
+  justify-content: center;
+  width: 95%;
+  padding-bottom: 5.2%;
+  margin: auto;
+  background-image: url("404UsernameNotFound404.png");
+  background-repeat: repeat;
+  border-color: lightgrey;
+  border-width: thick;
+  border-style: solid;
+  border-radius: 20px;
+  background-size: 100%;
+  align-content: center;
+  margin-bottom: 2%;
+}
+.codingProgectsFullProgectConatiner2TextContainer {
+  background-color: rgb(0, 0, 0, 0.85);
+  border-color: rgb(255, 255, 255, 0.5);
+  border-style: solid;
+  border-radius: 20px;
+  margin-top: 6%;
+  padding: 1%;
+  width: 70%;
+}
+.codingProgectsFullProgectConatiner2TextContainerMobile {
+  background-color: rgb(0, 0, 0, 0.85);
+  border-color: rgb(255, 255, 255, 0.5);
+  border-style: solid;
+  border-radius: 20px;
+  margin-top: 6%;
+  padding: 1%;
+  width: 95%;
+}
+
+/*CSS for Contact Page ----------------------------------------------------------------------*/
+.forWholeContactPage {
+  width: 95%;
+  margin: auto;
+  background-color: lightblue;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding: 1%;
+  text-align: center;
+}
+.forContactText {
+  font-size: 250%;
+}
+.forContactTextMargins {
+  width: 50%;
+  margin: auto;
+}
+.forContactButtonsR {
+  /* margin-right: 1% !important;
+  margin-left: 2% !important; */
+  padding: 0%;
+}
+.forContactButtons {
+  margin-bottom: 1%;
+  margin-top: 1%;
+}
+.containerForButtons {
+  display: flex;
+  justify-content: left;
+  font-style: italic;
+  margin-bottom: 4%;
+  margin-top: 4%;
+}
+.contianerForAllButtons {
+  margin-left: 25%;
+}
+.forMarginLeft {
+  margin-left: 1%;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.forMarginLeftMobile {
+  text-align: left;
+  margin-left: 1%;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+/*BoneFinder*******************************************************************************************************************************/
+.boneFinderWindow {
+  width: 1100px;
+  height: 600px;
+  margin: auto;
+}
+body {
+  overflow: hidden;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+.imageForIntro {
+  margin: 1%;
+}
+.homePageTitle {
+  padding-top: 4%;
+  font-size: 1000% !important;
+  text-align: center !important;
+}
+
+.musclesInvoled {
+  font-size: 200% !important;
+  text-align: center !important;
+  white-space: nowrap;
+}
+
+.firstOnMusclePage {
+  margin-left: 10%;
+}
+
+.sponseredBy {
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.homePageBackground {
+  /* position: absolute; */
+  background-image: url("https://petertdyer.files.wordpress.com/2013/03/deltoid_muscle_animation3.gif");
+  background-size: 100%;
+  position: relative;
+  /* padding-bottom: 47.4%;
+  padding-top: 1%; */
+}
+.layerIntro {
+  background-color: rgb(51, 51, 51, 0.2);
+  width: 100%;
+  height: 100%;
+}
+
+.buttonToStartWebsite {
+  padding-top: 2%;
+  padding-bottom: 3.6%;
+  display: flex;
+  justify-content: center;
+  width: 75%;
+  margin: auto;
+}
+
+.colorILike {
+  color: rgb(51, 51, 51);
+}
+.introPara {
+  text-align: left;
+  width: 75%;
+  background-color: rgb(51, 51, 51, 0.5);
+  border-color: rgb(51, 51, 51);
+  border-style: solid !important;
+  border-width: medium !important;
+  border-radius: 10px;
+}
+.containerForIntro {
+  display: flex;
+  justify-content: center;
+  width: 75%;
+  margin: auto;
+}
+
+.MusclePage {
+  background-image: url("./img/ann.jpg");
+  background-size: 100%;
+  position: relative;
+}
+
+.muscleTitle {
+  font-size: 500% !important;
+  text-align: center !important;
+}
+
+.muscleTitleContainer {
+  padding-top: 2%;
+}
+
+.muslceFirstPara {
+  padding: 1%;
+  text-align: center;
+  width: 95%;
+  margin: auto;
+}
+
+.layerMuscle {
+  background-color: rgb(51, 51, 51, 0.5);
+  width: 100%;
+  height: 100%;
+}
+
+.firstImageOnMuscleContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.secondImageOnMuscle {
+  align-content: center;
+  margin-top: 1.5%;
+  margin-right: 40%;
+}
+
+.border {
+  border-color: rgb(51, 51, 51);
+  border-style: solid !important;
+  border-width: 10px;
+}
+
+.Glen {
+  font-size: 400% !important;
+  text-align: center !important;
+}
+
+.GlenContainer {
+  margin: 1%;
+}
+
+.muslceSecondPara {
+  text-align: center;
+  width: 97%;
+  margin: auto;
+}
+
+.buttonMuscle {
+  padding-top: 1%;
+  padding-bottom: 3.6%;
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  margin: auto;
+}
+
+.InjuryFullPage {
+  background-color: white;
+  background-size: 100%;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.layerInjury {
+  width: 100%;
+  height: 100%;
+}
+
+.injuryContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.Injury {
+  padding-bottom: 0.5%;
+  padding-top: 0.5%;
+  margin-top: 0.5%;
+  width: 45%;
+  font-size: 80%;
+}
+
+.InjuryTreatment {
+  margin: 3%;
+  font-size: 130%;
+}
+.InjuryName {
+  font-weight: bolder !important;
+  /* text-decoration: underline; */
+  margin-bottom: 3%;
+  font-size: 130%;
+}
+
+.InjuryTitles {
+  font-size: 130%;
+}
+
+.row1Move {
+  display: flex;
+  justify-content: center;
+  width: 90%;
+  margin: auto;
+}
+
+.boxForMove {
+  border: black solid medium;
+  background: rgb(51, 51, 51, 0.5);
+  width: 33.33%;
+  margin-right: 5%;
+  margin-left: 5%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+.MovementPage {
+  background-image: url("./img/prism.png");
+}
+
+.InjuryPageTitle {
+  font-size: 200% !important;
+  text-align: center !important;
+}
+
+.InjuryPageTitleContainer {
+  padding-top: 0.5%;
+}
+
+.buttonForInjury {
+  padding-bottom: 3.6%;
+  display: flex;
+  justify-content: center;
+  width: 75%;
+  margin: auto;
+}
+
+.tweetContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+
+.tweet {
+  margin: 5%;
+  border: black solid thick;
+}
+
+.twoButtonContainer {
+  display: flex;
+  justify-content: center;
+  width: 75%;
+  margin: auto;
+}
+
+.twoButtonButtonR {
+  padding-top: 1%;
+  padding-bottom: 3.6%;
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  margin: auto;
+}
+.twoButtonButtonL {
+  padding-top: 1%;
+  padding-bottom: 3.6%;
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  margin: auto;
+}
+
+.TweetPageTitle {
+  margin-top: 10%;
+  font-size: 300% !important;
+  text-align: center !important;
+}
+
+.buttonForTweet {
+  padding-bottom: 3.6%;
+  display: flex;
+  justify-content: center;
+  width: 75%;
+  margin: auto;
+}
