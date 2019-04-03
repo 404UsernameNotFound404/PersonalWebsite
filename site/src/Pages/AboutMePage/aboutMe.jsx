@@ -1,8 +1,9 @@
 import React, { Component } from "react";
-import image from "./0.jpg";
-import paraForAct from "./paraForAct.json";
-import paraAthle from "./paraForAthle.json";
-import paraAcad from "./paraForAcad.json";
+import image from "../../Img/0.jpg";
+import "./AboutMe.css";
+import paraForAct from "../../paraForAct.json";
+import paraAthle from "../../paraForAthle.json";
+import paraAcad from "../../paraForAcad.json";
 
 import {
   Container,

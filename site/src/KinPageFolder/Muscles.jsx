@@ -40,14 +40,14 @@ class Muscles extends Component {
             <div className="secondImageOnMuscle">
               <Image
                 size="medium"
-                src={require("./img/shoulderAn.jpg")}
+                src={require("../KinImages/shoulderAn.jpg")}
                 className="border"
               />
             </div>
             <div>
               <Image
                 size="medium"
-                src={require("./img/AnnotomyOfShoulder.jpg")}
+                src={require("../KinImages/AnnotomyOfShoulder.jpg")}
                 className="border"
               />
             </div>

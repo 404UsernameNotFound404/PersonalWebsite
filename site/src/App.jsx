@@ -1,12 +1,12 @@
 import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import NavBar from "./navBar";
-import Footer from "./footer";
-import AboutMe from "./aboutMe";
-import CodingProgects from "./codingProgects";
-import Contact from "./contactPage";
-import KinPage from "./KinPage";
+import NavBar from "./footerAndHeader/navBar";
+import Footer from "./footerAndHeader/footer";
+import AboutMe from "./Pages/AboutMePage/aboutMe";
+import CodingProgects from "./Pages/CodingProgects/codingProgects";
+import Contact from "./Pages/ContactPage/contactPage";
+import KinPage from "./KinPageFolder/KinPage";
 
 import {
   withRouter,

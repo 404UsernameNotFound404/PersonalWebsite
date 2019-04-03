@@ -41,7 +41,10 @@ class homePage extends Component {
               Step into the world of the shoulder...
             </Header>
             <div className="imageForIntro">
-              <Image src={require("./img/properIntro.png")} size="medium" />
+              <Image
+                src={require("../KinImages/properIntro.png")}
+                size="medium"
+              />
             </div>
           </div>
           <div className="buttonToStartWebsite">

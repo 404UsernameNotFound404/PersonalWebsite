@@ -3,7 +3,7 @@ import HomePage from "./homePage";
 import Muscles from "./Muscles";
 import InjuryPage from "./InjuryPage";
 import Movement from "./Movement";
-import Tweet from "./tweet";
+import Tweet from "../tweet";
 
 class KinPage extends Component {
   state = {};

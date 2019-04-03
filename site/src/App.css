@@ -119,7 +119,7 @@
   width: 70%;
   padding-bottom: 7.7%;
   margin: auto;
-  background-image: url("ProgrammerHumor.png");
+  background-image: url("./Img/ProgrammerHumor.png");
   background-repeat: no-repeat;
   border-color: white;
   border-width: thick;
@@ -148,7 +148,7 @@
   width: 70%;
   padding-bottom: 4%;
   margin: auto;
-  background-image: url("JAGame.png");
+  background-image: url("./Img/JAGame.png");
   background-repeat: no-repeat;
   border-color: lightgrey;
   border-width: thick;
@@ -164,7 +164,7 @@
   width: 98%;
   padding-bottom: 4%;
   margin: auto;
-  background-image: url("JAGame.png");
+  background-image: url("./Img/JAGame.png");
   background-repeat: repeat;
   border-color: lightgrey;
   border-width: thick;
@@ -180,7 +180,7 @@
   width: 70%;
   padding-bottom: 9.9%;
   margin: auto;
-  background-image: url("ReactApp.png");
+  background-image: url("./Img/ReactApp.png");
   background-repeat: no-repeat;
   border-color: lightgrey;
   border-width: thick;
@@ -197,7 +197,7 @@
   width: 95%;
   padding-bottom: 9.9%;
   margin: auto;
-  background-image: url("ReactApp.png");
+  background-image: url("./Img/ReactApp.png");
   background-repeat: repeat;
   border-color: lightgrey;
   border-width: thick;
@@ -214,7 +214,7 @@
   width: 70%;
   padding-bottom: 5.2%;
   margin: auto;
-  background-image: url("404UsernameNotFound404.png");
+  background-image: url("./Img/404UsernameNotFound404.png");
   background-repeat: no-repeat;
   border-color: lightgrey;
   border-width: thick;
@@ -231,7 +231,7 @@
   width: 95%;
   padding-bottom: 5.2%;
   margin: auto;
-  background-image: url("404UsernameNotFound404.png");
+  background-image: url("./Img/404UsernameNotFound404.png");
   background-repeat: repeat;
   border-color: lightgrey;
   border-width: thick;
@@ -387,7 +387,7 @@ html {
 }
 
 .MusclePage {
-  background-image: url("./img/ann.jpg");
+  background-image: url("./KinImages/ann.jpg");
   background-size: 100%;
   position: relative;
 }
@@ -514,7 +514,7 @@ html {
 }
 
 .MovementPage {
-  background-image: url("./img/prism.png");
+  background-image: url("./KinImages/prism.png");
 }
 
 .InjuryPageTitle {
