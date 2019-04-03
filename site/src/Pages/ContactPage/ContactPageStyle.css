@@ -1,0 +1,46 @@
+.forWholeContactPage {
+  width: 95%;
+  margin: auto;
+  background-color: lightblue;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding: 1%;
+  text-align: center;
+}
+.forContactText {
+  font-size: 250%;
+}
+.forContactTextMargins {
+  width: 50%;
+  margin: auto;
+}
+.forContactButtonsR {
+  /* margin-right: 1% !important;
+    margin-left: 2% !important; */
+  padding: 0%;
+}
+.forContactButtons {
+  margin-bottom: 1%;
+  margin-top: 1%;
+}
+.containerForButtons {
+  display: flex;
+  justify-content: left;
+  font-style: italic;
+  margin-bottom: 4%;
+  margin-top: 4%;
+}
+.contianerForAllButtons {
+  margin-left: 25%;
+}
+.forMarginLeft {
+  margin-left: 1%;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.forMarginLeftMobile {
+  text-align: left;
+  margin-left: 1%;
+  margin-top: auto;
+  margin-bottom: auto;
+}

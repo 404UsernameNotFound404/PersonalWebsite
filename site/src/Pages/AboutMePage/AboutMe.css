@@ -1,0 +1,58 @@
+.forAboutMeTextContainer {
+  width: 95%;
+  margin: auto;
+  padding: 2%;
+  text-align: center;
+  background-color: lightblue;
+}
+.forAboutMeText {
+  width: 70%;
+  margin: auto;
+  display: flex;
+  justify-content: left;
+  margin-bottom: 2%;
+}
+.forAboutMeTextMobile {
+  width: 95%;
+  margin: auto;
+  margin-bottom: 2%;
+}
+.forAboutMeText img {
+  border-radius: 50%;
+  border-color: black;
+  border-style: solid;
+  border-width: thick;
+}
+.forAboutMeTextMobile img {
+  border-radius: 50%;
+  border-color: black;
+  border-style: solid;
+  border-width: thick;
+  width: 60%;
+  height: 60%;
+}
+.forAboutMeTextActuallyText {
+  margin: 3%;
+  text-align: left;
+}
+.threeAAAContainer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin: auto;
+}
+.threeAAAPara {
+  text-align: left;
+}
+.threeAAATitle {
+  text-align: left;
+  /* text-decoration: underline; */
+  margin-bottom: 0.5%;
+}
+.threeAAATextContainer {
+  margin-top: 2%;
+  padding: 2%;
+  border-color: grey;
+  border-style: solid;
+  background-color: lightcyan;
+}

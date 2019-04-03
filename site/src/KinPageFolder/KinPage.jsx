@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./KinPageStyle.css";
 import HomePage from "./homePage";
 import Muscles from "./Muscles";
 import InjuryPage from "./InjuryPage";

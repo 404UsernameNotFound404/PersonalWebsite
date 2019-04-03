@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./FooterStyle.css";
 import {
   Container,
   Icon,

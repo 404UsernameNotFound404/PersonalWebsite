@@ -1,0 +1,16 @@
+.forFooter {
+  background-color: lightgrey;
+  width: 95%;
+  margin: auto;
+  text-align: center;
+  padding: 1.5%;
+  font-style: italic;
+  margin-top: 1%;
+}
+.forPopup {
+  display: flex;
+  justify-content: center;
+}
+.forPopupText {
+  margin-right: 4%;
+}

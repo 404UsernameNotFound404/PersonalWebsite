@@ -1,11 +1,4 @@
-body {
-  overflow: hidden;
-}
-html {
-  scroll-behavior: smooth;
-}
-
-/* .imageForIntro {
+.imageForIntro {
   margin: 1%;
 }
 .homePageTitle {
@@ -30,9 +23,12 @@ html {
 }
 
 .homePageBackground {
+  /* position: absolute; */
   background-image: url("https://petertdyer.files.wordpress.com/2013/03/deltoid_muscle_animation3.gif");
   background-size: 100%;
   position: relative;
+  /* padding-bottom: 47.4%;
+    padding-top: 1%; */
 }
 .layerIntro {
   background-color: rgb(51, 51, 51, 0.2);
@@ -69,7 +65,7 @@ html {
 }
 
 .MusclePage {
-  background-image: url("./KinImages/ann.jpg");
+  background-image: url("../KinImages/ann.jpg");
   background-size: 100%;
   position: relative;
 }
@@ -169,6 +165,7 @@ html {
 }
 .InjuryName {
   font-weight: bolder !important;
+  /* text-decoration: underline; */
   margin-bottom: 3%;
   font-size: 130%;
 }
@@ -195,7 +192,7 @@ html {
 }
 
 .MovementPage {
-  background-image: url("./KinImages/prism.png");
+  background-image: url("../KinImages/prism.png");
 }
 
 .InjuryPageTitle {
@@ -263,4 +260,4 @@ html {
   justify-content: center;
   width: 75%;
   margin: auto;
-} */
+}

@@ -1,0 +1,29 @@
+.forNavBar {
+  background-color: lightgrey;
+  width: 95%;
+  margin: auto;
+  text-align: center;
+  padding: 1.5%;
+  margin-bottom: 1%;
+}
+.forMyName {
+  font-size: 100%;
+}
+.forMyNameMobile {
+  font-size: 50%;
+}
+.forMyNameContainer {
+  padding-bottom: 1%;
+  font-size: 300%;
+}
+
+.forNavBarButtonsContainer {
+  display: flex;
+  justify-content: center;
+  width: 70%;
+  margin: auto;
+}
+.forNavBarButtons {
+  display: flex;
+  flex: 1;
+}

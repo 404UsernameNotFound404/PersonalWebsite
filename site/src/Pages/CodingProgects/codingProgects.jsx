@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./CodingProgectsStyle.css";
 import {
   Container,
   Icon,

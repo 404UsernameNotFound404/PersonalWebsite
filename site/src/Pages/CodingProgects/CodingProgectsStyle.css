@@ -1,0 +1,153 @@
+.codingProgectsFullPage {
+  width: 95%;
+  margin: auto;
+  padding: 2%;
+  text-align: center;
+  background-color: lightblue;
+}
+.codingProgectsFullProgectConatiner1 {
+  display: flex;
+  justify-content: center;
+  width: 70%;
+  padding-bottom: 7.7%;
+  margin: auto;
+  background-image: url("../../Img/ProgrammerHumor.png");
+  background-repeat: no-repeat;
+  border-color: white;
+  border-width: thick;
+  border-style: solid;
+  border-radius: 20px;
+  background-size: 100%;
+  align-content: center;
+  margin-bottom: 2%;
+}
+.codingProgectsFullProgectConatiner1TextContainer {
+  background-color: rgb(0, 0, 0, 0.85);
+  border-color: rgb(255, 255, 255, 0.5);
+  border-style: solid;
+  border-radius: 20px;
+  margin-top: 15%;
+  padding: 1%;
+  width: 70%;
+}
+.codingProgectsFullProgectConatiner1Text {
+  text-align: center;
+  opacity: 1;
+}
+.codingProgectsFullProgectConatiner2 {
+  display: flex;
+  justify-content: center;
+  width: 70%;
+  padding-bottom: 4%;
+  margin: auto;
+  background-image: url("../../Img/JAGame.png");
+  background-repeat: no-repeat;
+  border-color: lightgrey;
+  border-width: thick;
+  border-style: solid;
+  border-radius: 20px;
+  background-size: 100%;
+  align-content: center;
+  margin-bottom: 2%;
+}
+.codingProgectsFullProgectConatiner2Mobile {
+  display: flex;
+  justify-content: center;
+  width: 98%;
+  padding-bottom: 4%;
+  margin: auto;
+  background-image: url("../../Img/JAGame.png");
+  background-repeat: repeat;
+  border-color: lightgrey;
+  border-width: thick;
+  border-style: solid;
+  border-radius: 20px;
+  background-size: 100%;
+  align-content: center;
+  margin-bottom: 2%;
+}
+.codingProgectsFullProgectConatiner3 {
+  display: flex;
+  justify-content: center;
+  width: 70%;
+  padding-bottom: 9.9%;
+  margin: auto;
+  background-image: url("../../Img/ReactApp.png");
+  background-repeat: no-repeat;
+  border-color: lightgrey;
+  border-width: thick;
+  border-style: solid;
+  border-radius: 20px;
+  background-size: 100%;
+  align-content: center;
+  margin-bottom: 2%;
+}
+
+.codingProgectsFullProgectConatiner3Mobile {
+  display: flex;
+  justify-content: center;
+  width: 95%;
+  padding-bottom: 9.9%;
+  margin: auto;
+  background-image: url("../../Img/ReactApp.png");
+  background-repeat: repeat;
+  border-color: lightgrey;
+  border-width: thick;
+  border-style: solid;
+  border-radius: 20px;
+  background-size: 100%;
+  align-content: center;
+  margin-bottom: 2%;
+}
+
+.codingProgectsFullProgectConatiner4 {
+  display: flex;
+  justify-content: center;
+  width: 70%;
+  padding-bottom: 5.2%;
+  margin: auto;
+  background-image: url("../../Img/404UsernameNotFound404.png");
+  background-repeat: no-repeat;
+  border-color: lightgrey;
+  border-width: thick;
+  border-style: solid;
+  border-radius: 20px;
+  background-size: 100%;
+  align-content: center;
+  margin-bottom: 2%;
+}
+
+.codingProgectsFullProgectConatiner4Mobile {
+  display: flex;
+  justify-content: center;
+  width: 95%;
+  padding-bottom: 5.2%;
+  margin: auto;
+  background-image: url("../../Img/404UsernameNotFound404.png");
+  background-repeat: repeat;
+  border-color: lightgrey;
+  border-width: thick;
+  border-style: solid;
+  border-radius: 20px;
+  background-size: 100%;
+  align-content: center;
+  margin-bottom: 2%;
+}
+.codingProgectsFullProgectConatiner2TextContainer {
+  background-color: rgb(0, 0, 0, 0.85);
+  border-color: rgb(255, 255, 255, 0.5);
+  border-style: solid;
+  border-radius: 20px;
+  margin-top: 6%;
+  padding: 1%;
+  width: 70%;
+}
+.codingProgectsFullProgectConatiner2TextContainerMobile {
+  background-color: rgb(0, 0, 0, 0.85);
+  border-color: rgb(255, 255, 255, 0.5);
+  border-style: solid;
+  border-radius: 20px;
+  margin-top: 6%;
+  padding: 1%;
+  width: 95%;
+}
